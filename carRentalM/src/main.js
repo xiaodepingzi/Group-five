@@ -3,7 +3,7 @@ import App from './App.vue'
 import router from './router'
 import store from './store'
 
-import './assets/css/reset'; //样式重置
+import './assets/css/reset.css' //样式重置
 import {obj} from './assets/js/rem'; //自适应
 import 'font-awesome/css/font-awesome.min.css'; //字体库
 
